@@ -11,5 +11,8 @@
     "@rocket.chat/sdk": "^0.2.9-2",
     "dotenv": "^8.2.0",
     "puid": "^1.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
