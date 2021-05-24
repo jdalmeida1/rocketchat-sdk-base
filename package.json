@@ -1,0 +1,15 @@
+{
+  "name": "projeto_base_sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@rocket.chat/sdk": "^0.2.9-2",
+    "dotenv": "^8.2.0",
+    "puid": "^1.0.7"
+  }
+}
